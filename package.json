@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
+    "next": "beta",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "superagent": "^3.5.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
